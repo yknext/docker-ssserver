@@ -1,6 +1,6 @@
 # docker-ssserver
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://raw.githubusercontent.com/amorphobia/docker-ssserver/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://raw.githubusercontent.com/amorphobia/docker-ssserver/master/LICENSE) [![ImageLayers.io](https://img.shields.io/badge/ImageLayers.io-0%20B%20%2F%209%20Layers-blue.svg)](https://imagelayers.io/?images=amorphobia/docker-ssserver:latest 'Get your own badge on imagelayers.io')
 
 Deploy shadowsocks server
 
